@@ -1,0 +1,6 @@
+
+Œ"squid:ClassVariableVisibilityCheck"RMake HEALTH a static final constant or non-public and provide accessors if needed.(¿×ıÉşÿÿÿÿ8ğÎëÇ˜-
+Osquid:S1444",Make this "public static HEALTH" field final(¿×ıÉşÿÿÿÿ8ğÎëÇ˜-
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹Æ8ĞÇï†›-
+tsquid:S3008"QRename this field "HEALTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿×ıÉşÿÿÿÿ8ğÎëÇ˜-
+Tsquid:S2696"6Make the enclosing method "static" or remove this set.(ŸÂé£8ç’‘È˜-

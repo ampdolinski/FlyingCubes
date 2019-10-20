@@ -1,0 +1,15 @@
+
+Gsquid:S1659"$Declare "HEIGHT" on a separate line.(îáúÏÿÿÿÿÿ8œŠë-
+isquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(Ğ…¶8Æ”ã¤Í-
+isquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(çõ«î8°²å¤Í-
+Gsquid:S1948")Make "spawner" transient or serializable.(†£âé8ëşş°œ-
+Csquid:S1948"%Make "hud" transient or serializable.(ÉÅ§“8ß¥È˜-
+isquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(úˆĞ8îÚœ±œ-
+k$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.( ÁÀÏüÿÿÿÿ8îÚœ±œ-
+Fsquid:S1148I"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8îÚœ±œ-
+f$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(’­£ä8îÚœ±œ-
+Esquid:S1948"(Make "thread" transient or serializable.(â£Ÿ48¹½–ë-
+V
+squid:S106h"9Replace this use of System.out or System.err by a logger.(ÿ¬‰î8îÚœ±œ-
+Gsquid:S1948")Make "handler" transient or serializable.(Æ¶Ø…8“ü••-
+nsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8îÚœ±œ-
